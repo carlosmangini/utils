@@ -51,4 +51,12 @@ class util {
     ensure  => installed,
   }
 
+package { [ 'gcc*',
+   'tcpdump',
+   'htop',
+   'openssl',
+   'net-tools', ]:
+    ensure  => purged,
+  }
 }
+

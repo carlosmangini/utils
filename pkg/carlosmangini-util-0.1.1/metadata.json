@@ -5,8 +5,8 @@
   "summary": "Modulo para instalação básica de pacotes.",
   "license": "Apache-2.0",
   "source": "https://github.com/carlosmangini/util.git",
-  "project_page": null,
-  "issues_url": null,
+  "project_page": "https://github.com/carlosmangini/util",
+  "issues_url": "https://github.com/carlosmangini/util/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
@@ -15,4 +15,3 @@
   ],
   "data_provider": null
 }
-
